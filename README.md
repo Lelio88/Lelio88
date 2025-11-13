@@ -4,4 +4,7 @@
 ---
 ### 📊 Statistiques GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=Lelio88&show_icons=true&theme=tokyonight)
+<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lelio88&theme=tokyonight)
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lelio88&theme=tokyonight)
