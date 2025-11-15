@@ -1,6 +1,5 @@
 ### 👋 Salut, moi c’est Lelio
 Étudiant en développement, je développe des projets web liés au gaming ainsi que des outils pouvant m'aider à optimiser mes hobbies ! 
-## 🚀 Compétences & Technologies
 
 ## 🚀 Compétences & Technologies
 
