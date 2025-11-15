@@ -6,47 +6,20 @@
 
 <div align="center">
 
-<!-- HTML -->
-<img src="https://img.shields.io/badge/%20-?logo=html5&logoColor=E34F26&labelColor=00000000&style=flat" height="40" />
-
-<!-- CSS -->
-<img src="https://img.shields.io/badge/--?logo=css3&logoColor=1572B6&labelColor=00000000&style=flat" height="40" />
-
-<!-- JavaScript -->
-<img src="https://img.shields.io/badge/--?logo=javascript&logoColor=F7DF1E&labelColor=00000000&style=flat" height="40" />
-
-<!-- PHP -->
-<img src="https://img.shields.io/badge/--?logo=php&logoColor=777BB4&labelColor=00000000&style=flat" height="40" />
-
-<!-- Dart -->
-<img src="https://img.shields.io/badge/--?logo=dart&logoColor=0175C2&labelColor=00000000&style=flat" height="40" />
-
-<!-- Node.js -->
-<img src="https://img.shields.io/badge/--?logo=node.js&logoColor=339933&labelColor=00000000&style=flat" height="40" />
-
-<!-- TypeScript -->
-<img src="https://img.shields.io/badge/--?logo=typescript&logoColor=3178C6&labelColor=00000000&style=flat" height="40" />
-
-<!-- MySQL -->
-<img src="https://img.shields.io/badge/--?logo=mysql&logoColor=4479A1&labelColor=00000000&style=flat" height="40" />
-
-<!-- Git -->
-<img src="https://img.shields.io/badge/--?logo=git&logoColor=F05032&labelColor=00000000&style=flat" height="40" />
-
-<!-- Markdown -->
-<img src="https://img.shields.io/badge/--?logo=markdown&logoColor=000000&labelColor=00000000&style=flat" height="40" />
-
-<!-- Unity -->
-<img src="https://img.shields.io/badge/--?logo=unity&logoColor=000000&labelColor=00000000&style=flat" height="40" />
-
-<!-- Godot -->
-<img src="https://img.shields.io/badge/--?logo=godot-engine&logoColor=478CBF&labelColor=00000000&style=flat" height="40" />
-
-<!-- TailwindCSS -->
-<img src="https://img.shields.io/badge/--?logo=tailwindcss&logoColor=38BDF8&labelColor=00000000&style=flat" height="40" />
-
-<!-- React -->
-<img src="https://img.shields.io/badge/--?logo=react&logoColor=61DAFB&labelColor=00000000&style=flat" height="40" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
