@@ -1,10 +1,9 @@
 ### 👋 Salut, moi c’est Lelio
 Étudiant en développement, je développe des projets web liés au gaming ainsi que des outils pouvant m'aider à optimiser mes hobbies ! 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![HTML](https://img.shields.io/badge/- -?logo=html5&logoColor=E34F26&labelColor=00000000&style=flat)
+![CSS](https://img.shields.io/badge/- -?logo=css3&logoColor=1572B6&labelColor=00000000&style=flat)
+![JavaScript](https://img.shields.io/badge/- -?logo=javascript&logoColor=F7DF1E&labelColor=00000000&style=flat)
+
 
 ---
 
