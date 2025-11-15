@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- HTML -->
-<img src="https://img.shields.io/badge/--?logo=html5&logoColor=E34F26&labelColor=00000000&style=flat" height="40" />
+<img src="https://img.shields.io/badge/%20-?logo=html5&logoColor=E34F26&labelColor=00000000&style=flat" height="40" />
 
 <!-- CSS -->
 <img src="https://img.shields.io/badge/--?logo=css3&logoColor=1572B6&labelColor=00000000&style=flat" height="40" />
