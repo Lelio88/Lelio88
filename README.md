@@ -3,7 +3,7 @@
 
 ## 🚀 Compétences & Technologies
 
----
+
 
 ### 🎨 Front-End
 <div>
@@ -16,7 +16,7 @@
 
 </div>
 
----
+
 
 ### 🛠 Back-End
 <div>
